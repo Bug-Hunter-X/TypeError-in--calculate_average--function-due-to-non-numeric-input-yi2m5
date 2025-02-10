@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python: improper handling of input types in a function. The `calculate_average` function fails when presented with a list containing non-numeric elements.  The solution shows how to robustly handle such cases using a `try-except` block and type checking.
